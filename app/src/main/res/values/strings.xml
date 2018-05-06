@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="name">Name</string>
+    <string name="questions">Questions</string>
+
+    <string name="question_one">1. Which of the following is not a prime number?</string>
+    <string name="choice1_question1">31</string>
+    <string name="choice2_question1">61</string>
+    <string name="choice3_question1">71</string>
+    <string name="choice4_question1">91</string>
+
+    <string name="question_two">2. The sum of first five prime numbers is:</string>
+    <string name="choice1_question2">11</string>
+    <string name="choice2_question2">18</string>
+    <string name="choice3_question2">26</string>
+    <string name="choice4_question2">28</string>
+
+    <string name="question_three">3. The smallest 3 digit prime number is:</string>
+    <string name="choice1_question3">101</string>
+    <string name="choice2_question3">103</string>
+    <string name="choice3_question3">109</string>
+    <string name="choice4_question3">113</string>
+
+    <string name="question_four">4. The sum of first 45 natural numbers is:</string>
+    <string name="choice1_question4">1035</string>
+    <string name="choice2_question4">1280</string>
+    <string name="choice3_question4">2070</string>
+    <string name="choice4_question4">2140</string>
+
+    <string name="question_five">5. Which of the following number is divisible by 3? Check whatever applicable.</string>
+    <string name="choice1_question5">246</string>
+    <string name="choice2_question5">894</string>
+    <string name="choice3_question5">45661</string>
+    <string name="choice4_question5">998611</string>
+
+    <string name="question_six">6. Whts is the antonym of ARTIFICIAL?</string>
+    <string name="antonym_answer">Your answer here</string>
+
+    <string name="answer1">ANSWER_1. 91 is divisble by 7</string>
+    <string name="answer2">ANSWER_2. The first prime numbers are 2, 3, 5, 7, 11. Adding all of them, we get 28.</string>
+    <string name="answer3">ANSWER_3. 100 is the smallest 3 digit number and it is not a prime number. 101 is a prime number</string>
+    <string name="answer4">ANSWER_4. Sn =n(n + 1)/2=45(45 + 1)/2= 1035.</string>
+    <string name="answer5">ANSWER_5. 246 and 894 is divisible by 3. 2+4+6= 12 is divisible by 3. 8+9+4 = 21 is divisible by 3.</string>
+    <string name="answer6">ANSWER_6. Natural</string>
+
+    <string name="submit">Submit</string>
+    <string name="answers">Answers will shown here after the Quiz.</string>
+    <string name="restart">Restart Quiz</string>
+</resources>
